@@ -1,7 +1,11 @@
 # Javions
 
-<img src="example.png"><br>
-<img src="example_site.png"><br>
+<p align="center">
+  <img src="example.png" width="500">
+</p>
+<p align="center">
+  <img src="example_site.png" width="500">
+</p>
 
 <p align="center"><em> A preview of our app </em></p>
 
