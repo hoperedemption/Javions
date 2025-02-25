@@ -3,10 +3,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="example.png" width="400"><br>
+      <img src="example.png" width="400" height="200"><br>
     </td>
     <td align="center">
-      <img src="example_bis.png" width="400"><br>
+      <img src="example_site.png" width="400" height="200"><br>
     </td>
   </tr>
 </table>
