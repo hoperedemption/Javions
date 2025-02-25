@@ -1,5 +1,11 @@
 # Javions
 
+<p align="center">
+  <img src="Project3/output_mistral_valve.gif" alt="Mitral Valve Segmentation" width="500">
+</p>
+
+<p align="center"><em>Figure 8: Mitral Valve Segmentation</em></p>
+
 **Javions** is a first-year programming project designed to facilitate air traffic control by decoding ADS-B (Automatic Dependent Surveillance – Broadcast) messages and displaying aircraft on a map in real time. It was done as part of the course "Practice of object-oriented programming" (CS-108) at EPFL in joint effort with my friend Yassine. The course webpage: https://cs108.epfl.ch/archive/23/archive.html
 
 ---
