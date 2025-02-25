@@ -1,15 +1,7 @@
 # Javions
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="example.png"><br>
-    </td>
-    <td align="center">
-      <img src="example_site.png"><br>
-    </td>
-  </tr>
-</table>
+<img src="example.png"><br>
+<img src="example_site.png"><br>
 
 <p align="center"><em> A preview of our app </em></p>
 
